@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NDg4Njc5ODkwMzg0ODQ2ODQ4.DnfuYg.AxYhbpGp6yHD_dmWu9ixOklCKzM
+owner=382616862673993739 
+prefix=3
+game=Stars Server.
 stayinchannel=true
 songinstatus=true
